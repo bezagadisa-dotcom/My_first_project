@@ -2,7 +2,7 @@
 
 Hello 👋  
 My name is Beza Gadisa.  
-I am a first-year Software Engineering student.
+I am a second-year Software Engineering student.
 
 This repository is for practicing:
 - HTML
